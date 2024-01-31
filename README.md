@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ItDoBeLikeThatSometimes
+- 👋 Hi, I’m Pedja.
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Computer Science at Aarhus University.
-- 💞️ I’m looking to collaborate on Game Projects.
+- 💞️ I’m looking to collaborate on Game Projects and other as well.
 - 📫 How to reach me Dm me here.
 
 <!---
